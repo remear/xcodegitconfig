@@ -1,7 +1,11 @@
 h1. Xcode Cocoa Application Git Settings
 
+h2. Purpose
+
+p. Adds .gitignore and .gitattributes to the Xcode Cocoa Application project template so those files are automatically placed into every new Cocoa Application project you generate. You need only run the script once to install the git config files to their proper location.
+
 h2. Usage
 
-p. Simply download the ruby script and run it.
+p. Simply download the ruby script and run it with root access.
 
 @sudo ruby InstallXcodeCocoaGitSettings.rb@
