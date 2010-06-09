@@ -1,0 +1,7 @@
+h1. Xcode Cocoa Application Git Settings
+
+h2. Usage
+
+p. Simply download the ruby script and run it.
+
+@sudo ruby InstallXcodeCocoaGitSettings.rb@
