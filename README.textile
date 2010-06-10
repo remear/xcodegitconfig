@@ -42,6 +42,6 @@ h4. iPhone / iPad Universal
 
 h2. Usage
 
-@git clone git://github.com/remear/xcodegitconfig.git\n
-cd xcodegitconfig\n
-sudo ruby InstallXcodeProjectGitSettings.rb@
+@git clone git://github.com/remear/xcodegitconfig.git@
+@cd xcodegitconfig@
+@sudo ruby InstallXcodeProjectGitSettings.rb@
