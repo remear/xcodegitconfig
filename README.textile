@@ -2,7 +2,19 @@ h1. Xcode Cocoa Application Git Settings
 
 h2. Purpose
 
-p. Adds .gitignore and .gitattributes to the Xcode Cocoa Application project template so those files are automatically placed into every new Cocoa Application project you generate. You need only run the script once to install the git config files to their proper location.
+p. Adds .gitignore and .gitattributes to the Xcode project templates so those 
+files are automatically placed into every new Cocoa Application project you generate. 
+You need only run the script once to install the git config files to their proper location.
+
+p. The following projects are included:
+
+h4. Mac OS X
+*Cocoa Application
+*Cocoa Document-based Application
+*Core Data Application
+*Core Data Application with Spotlight Importer
+*Core Data Document-based Application
+*Core Data Document-based Application with Spotlight Importer
 
 h2. Usage
 
