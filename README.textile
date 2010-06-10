@@ -1,4 +1,4 @@
-h1. Xcode Cocoa Application Git Settings
+h1. Auto Create gitignore in New Xcode Projects
 
 h2. Purpose
 
@@ -15,6 +15,30 @@ h4. Mac OS X
 * Core Data Application with Spotlight Importer
 * Core Data Document-based Application
 * Core Data Document-based Application with Spotlight Importer
+
+h4. iPhone
+* Navigation-based Application
+* Navigation-based Core Data
+* OpenGL ES iPhone Application
+* Split View-based Application
+* Split View-based Core Data Application
+* Tab Bar iPhone Application
+* Utility iPhone Application
+* Utility iPhone Core Data Application
+* View-based iPhone Application
+* Window-based iPhone Application
+* Window-based iPhone Core Data Application
+
+h4. iPad
+* OpenGL ES iPad Application
+* Tab Bar iPad Application
+* View-based iPad Application
+* Window-based iPad Application
+* Window-based iPad Core Data Application
+
+h4. iPhone / iPad Universal
+* Window-based Universal Application
+* Window-based Universal Core Data Application
 
 h2. Usage
 
